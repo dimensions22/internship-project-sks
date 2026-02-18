@@ -1,0 +1,41 @@
+# Multi-Page Responsive Website
+
+##  Project Overview
+This project is a fully responsive multi-page website with multiple sections such as Home, About, Services, Blog, and Contact.  
+It demonstrates navigation systems, UI components, and layout management across pages.
+
+##  Features
+- Multiple pages connected through navigation
+- Responsive Bootstrap layout
+- Carousel slider on homepage
+- Blog section with cards
+- Contact form page
+- Image gallery and content sections
+
+##  Technologies Used
+- HTML5
+- CSS3
+- Bootstrap Framework
+- JavaScript
+- jQuery plugins
+
+##  Pages Included
+- Home Page
+- About Page
+- Services Page
+- Blog Page
+- Contact Page
+
+##  How to Run
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+##  What I Learned
+- Managing multi-page website structure
+- Using Bootstrap grid system
+- Creating navigation systems across pages
+- Building reusable UI sections
+- Organizing large frontend projects
+
+##  Author
+Shivam

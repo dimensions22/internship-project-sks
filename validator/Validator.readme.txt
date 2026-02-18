@@ -1,0 +1,39 @@
+# JavaScript Form Validator
+
+##  Project Overview
+This project is a form validation system that checks user input fields before submission.  
+It demonstrates JavaScript event handling, validation logic, and user feedback.
+
+##  Features
+- Validates multiple input fields
+- Checks email format and required fields
+- Shows error messages dynamically
+- Supports multi-field inputs
+- Styled form layout
+
+##  Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Validation logic & DOM events)
+
+##  Project Structure
+index.html
+fv.css
+validator.js
+multifield.js
+
+
+##  How to Run
+1. Download or clone the repository
+2. Open `index.html` in your browser
+3. Try submitting the form with invalid inputs
+
+##  What I Learned
+- Handling form events in JavaScript
+- Creating validation rules using regex
+- Displaying dynamic error messages
+- Improving user input experience
+
+##  Author
+Shivam
+
