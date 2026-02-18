@@ -1,0 +1,39 @@
+
+# Landing Page
+
+##  Project Overview
+This project is a modern responsive landing page built using HTML, CSS, and JavaScript.  
+It demonstrates page structure, responsive layouts, animations, and UI design.
+
+##  Features
+- Responsive design for mobile, tablet, and desktop
+- Navigation menu with toggle button
+- Smooth animations using GSAP and AOS
+- Hero section with call-to-action buttons
+- Clean typography and layout system
+
+##  Technologies Used
+- HTML5
+- CSS3
+- JavaScript (DOM manipulation)
+- GSAP Animation Library
+- AOS (Animate on Scroll)
+
+##  Project Structure
+index.html
+css/style.css
+js/script.js
+img/
+
+##  How to Run
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+## What I Learned
+- Structuring webpages using semantic HTML
+- Creating responsive layouts using CSS
+- Adding animations and interactivity
+- Handling mobile navigation menus
+
+##  Author
+Shivam
